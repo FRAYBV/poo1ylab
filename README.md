@@ -14,4 +14,4 @@
 - _p06_PromedioCalificaciones
 - _p07_OperadoresAsignacion
 - _p08_FuncionesTrigonometricas
-- _p09_DividirEnCifras
+- _p09_DividirEn
