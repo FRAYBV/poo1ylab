@@ -1,4 +1,4 @@
-// Dado el nombre de un trabajador las horas trabajadas, paga por hora y tasa de impuesto
+// Dado el nombre de un trabajador las horas trabajadas, paga por hora y tasa de impuesto 
 
 import java.util.Scanner;
 
