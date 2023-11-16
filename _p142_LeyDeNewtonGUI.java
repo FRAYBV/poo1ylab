@@ -78,8 +78,7 @@ public class _p142_LeyDeNewtonGUI extends JFrame implements ActionListener, Chan
                     txtAceleracion.setText(String.format("%.2f", a));
                 }
             } catch (Exception ex) {
-                JOptionPane.showMessageDialog(this, "Faltan valores",
-                "Error", JOptionPane.ERROR_MESSAGE);
+                JOptionPane.showMessageDialog(this, "Faltan valores", "Error", JOptionPane.ERROR_MESSAGE);
 
             }
         } else if (e.getSource() == btnSalir) {
