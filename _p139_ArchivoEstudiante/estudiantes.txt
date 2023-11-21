@@ -1,0 +1,3 @@
+Maria,20,10.0,M
+Nancy,19,8.0,M
+Mario,30,9.0,H
